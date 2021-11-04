@@ -7,10 +7,6 @@
 5. Logistic regression
 6. Adaptive learning rate for hinge
 
-The outline of the project is given in the file project1_startingpoint.py on the course
-website. You may use this as a starting point. The code for input and output
-are already given in the course site. Your task would be to complete the five 
-functions in this file. 
 
 The input to your program is the data file and the train labels given in the datasets
 posted course on the website. For example to run your project on the breast cancer
